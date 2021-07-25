@@ -5524,8 +5524,12 @@ body.white {
 .btn-primary,
 .btn-primary:hover {
 	background-image: -webkit-linear-gradient(left, #B9BBBE, #B9BBBE);
-	background-image: -o-linear-gradient(left, #B9BBBE 0, #B9BBBE 100%);
-	background-image: linear-gradient(90deg, #B9BBBE 0, #B9BBBE);
+	background-image: -o-linear-gradient(left, #2C343C 0, #2C343C 100%);   
+	background-image: linear-gradient(90deg, #2C343C 0, #2C343C);
+	/*
+	292B2F dark
+	B9BBBE light
+	*/
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFF6975", endColorstr="#FFFF0060", GradientType=1)
 }
@@ -5622,9 +5626,9 @@ h5 small {
 }
 
 .social-round-icon:hover {
-	background-color: #292B2F;
+	background-color: #2C343C;
 	color: #fff;
-	border-color: #292B2F
+	border-color: #2C343C
 }
 
 .social-round-icon.white-round-icon {
@@ -5634,7 +5638,7 @@ h5 small {
 
 .social-round-icon.white-round-icon:hover {
 	background-color: #fff;
-	color: #292B2F;
+	color: #2C343C;
 	border-color: #fff
 }
 
@@ -5672,9 +5676,9 @@ h5 small {
 }
 
 .social-buttons a:hover .social-round-icon {
-	background-color: #292B2F;
+	background-color: #2C343C;
 	color: #fff;
-	border-color: #292B2F
+	border-color: #2C343C
 }
 
 .carousel-caption {
