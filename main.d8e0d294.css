@@ -2794,15 +2794,15 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
 	color: #fff;
-	background-color: #292B2F;
-	border-color: #292B2F
+	background-color: #2C343C;
+	border-color: #2C343C
 }
 
 .btn-primary.focus,
 .btn-primary:focus {
 	color: #fff;
-	background-color: #292B2F;
-	border-color: #292B2F
+	background-color: #2C343C;
+	border-color: #2C343C
 }
 
 .btn-primary.active,
@@ -2843,12 +2843,12 @@ fieldset[disabled] .btn-default:hover {
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-	background-color: #292B2F;
-	border-color: #292B2F
+	background-color: #2C343C;
+	border-color: #2C343C
 }
 
 .btn-primary .badge {
-	color: #292B2F;
+	color: #2C343C;
 	background-color: #fff
 }
 
@@ -5671,7 +5671,7 @@ h5 small {
 }
 
 .social-buttons a:hover {
-	color: #292B2F;
+	color: #2C343C;
 	text-decoration: none
 }
 
